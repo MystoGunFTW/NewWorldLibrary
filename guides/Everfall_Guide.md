@@ -109,6 +109,8 @@
         1. On the way there do the "Fishing with Shields" Quest at the lake West of Windsward
     6. Turn in "Between Innkeepers
 
+## Windsward
+
 15. Pick up all Windsward Quests
     - Look out for Rabbits and Turkeys
     1. Head to Merill's Place, dig up Dirt
@@ -118,15 +120,17 @@
     4. Go to Coopers Ranch and Dig up the Soil
     5. Walk back to Windsward, get any Turkeys and Rabbits you still need
     6. Turn in
+    7. Pick up all the quests
 
-16. Pick up all the quests
-    1. Run to First Light taking the West Exit out ot Windsward
-    2. Do Second Course on the way
+## First Light
+
+1. Run to First Light taking the West Exit out ot Windsward
+    1. Do Second Course on the way
         1. If you have a Musket, Bow, Staff you can try to do "Predator, Pray", otherwise SKIP
-    3. Turn in Quest at First Light
-    4. Get all the quests
-    5. Do "Powder Kegs" and "Dayspring Barley"
-    6. Turn them in
+    2. Turn in Quest at First Light
+    3. Get all the quests
+    4. Do "Powder Kegs" and "Dayspring Barley"
+    5. Turn them in
 
 17. Pick up all Quests 
     1. Do Hilltop Hops
