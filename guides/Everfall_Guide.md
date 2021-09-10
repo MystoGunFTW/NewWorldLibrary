@@ -1,7 +1,7 @@
 # Everfall Guide
-## <span style="color:red"> !!Skip tutorial!! </span>
-## <span style="color:red"> Fastest Weapons -> Hatchet + Musket </span>
-## <span style="color:red"> Dont forget to always mine Iron Ore and instantly sell or use for Cartriges </span>
+### <span style="color:red"> !!Skip tutorial!! </span>
+### <span style="color:red"> Fastest Weapons -> Hatchet + Musket </span>
+### <span style="color:red"> Dont forget to always mine Iron Ore and instantly sell or use for Cartriges </span>
 
 ## Starting Zone
 
