@@ -8,9 +8,6 @@
 1. On the Way to first quest
     1. Get 4 Wood
     2. Get 5 Flint
-    3. Craft Pickaxe
-    4. Craft Sickle
-    5. Craft Axe
 
 2. Accept first quest
     1. Go to quest area
@@ -19,8 +16,11 @@
 
 3. Second Quest
     1. Craft Skinning Knife
-    2. Equip everything
-    3. Turn in
+    2. Craft Pickaxe
+    3. Craft Sickle
+    4. Craft Axe
+    5. Equip everything
+    6. Turn in
 
 4. Third Quest
     1. Kill Boar 
