@@ -6,7 +6,7 @@
 ## Starting Zone
 
 1. On the Way to first quest
-    1. Get 4 Wood
+    - [ ] Get 4 Wood
     2. Get 5 Flint
     3. Craft Pickaxe
     4. Craft Sickle
