@@ -89,16 +89,16 @@
 
 13. Pick up all quests in town
     - also check Townboard for any easy quests
-        - If you see a Rabbit on the way, kill it for "With a little Luck"
-    	1. First do Researchers Request
-        2. Then Enroaching corruption right next to it
-        3. Then Reclaiming what was lost
-        4. Enroaching Corruption to the East
-        5. Opening supply Lines
-            - Henry is behind the Encampment down at the Docks
-        6. Last Enroaching Corruption
-        - Hopefully youve skinned 5 Rabbits by now, if not, check the forest east of Everfall
-        7. Turn in
+    - If you see a Rabbit on the way, kill it for "With a little Luck"
+    1. First do Researchers Request
+    2. Then Enroaching corruption right next to it
+    3. Then Reclaiming what was lost
+    4. Enroaching Corruption to the East
+    5. Opening supply Lines
+        - Henry is behind the Encampment down at the Docks
+    6. Last Enroaching Corruption
+    - Hopefully youve skinned 5 Rabbits by now, if not, check the forest east of Everfall
+    7. Turn in
 
 14. Pick up all the quests
     1. Farm 200 Stone, make 50 Stone blocks
