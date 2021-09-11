@@ -141,4 +141,4 @@
     6. Recall to Everfall Inn
     7. Turn in
 
-# You shout have over 2k Gold now, Sponsor to company, enjoy your first town
+# You should have over 2k Gold now, Donate to the company and enjoy your first town
