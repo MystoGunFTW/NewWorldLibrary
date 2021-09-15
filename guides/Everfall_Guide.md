@@ -1,6 +1,6 @@
 # Everfall Guide
 ### <span style="color:red"> !!Skip tutorial!! </span>
-### <span style="color:red"> Fastest Weapons -> Hatchet + Musket </span>
+### <span style="color:red"> Fastest Weapons -> ~~ Hatchet + Musket ~~ https://www.wepc.com/gaming/tier-list/new-world-best-weapon/</span>
 ### <span style="color:red"> Dont forget to always mine Iron Ore and instantly sell or use for Cartriges </span>
 
 ## Starting Zone
